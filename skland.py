@@ -57,7 +57,7 @@ login_headers: dict[str, str] = {
 header_for_sign: dict[str, str] = {
     'platform': '3',
     'timestamp': '',
-    'dId': 'BKj0XhcO2ttJiIPZ06YBAS8zO05UpEWKGDKhEZP+gHm6dmmV/DX34DeNQ8j8MECxbmIhOrEJ0EAxdfmw8PmlnzQ==',
+    'dId': '000000000000000000000000000000000000000000000000000000000000000000000000000000000000000==',
     'vName': '1.0.0'
 }
 
