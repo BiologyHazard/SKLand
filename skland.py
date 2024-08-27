@@ -9,9 +9,7 @@ from urllib import parse
 
 from httpx import AsyncClient
 
-from log import logger, set_level
-
-set_level('DEBUG')
+from log import logger
 
 
 TOKEN_LENGTH = 24
